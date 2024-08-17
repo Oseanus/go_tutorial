@@ -25,4 +25,4 @@ go.work.sum
 .env
 
 # VSCode files
-.vscode
+.vscode/
